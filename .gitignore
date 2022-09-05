@@ -7,7 +7,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-dfx
+.dfx
 node_modules
 dist
 dist-ssr
