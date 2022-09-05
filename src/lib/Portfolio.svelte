@@ -5,6 +5,16 @@
     { name: 'ETH NFT Collection', url: 'https://www.unchain.tech/' },
     { name: 'ETH NFT Maker', url: 'https://www.unchain.tech/' },
     { name: 'ETH NFT Game', url: 'https://www.unchain.tech/' },
+    { name: 'Canache Yield Farm', url: 'https://www.unchain.tech/' },
+    { name: 'Polygon Generative NFT', url: 'https://www.unchain.tech/' },
+    { name: 'Polygon ENS Domain', url: 'https://www.unchain.tech/' },
+    { name: 'Polygon Mobile dApp', url: 'https://www.unchain.tech/' },
+    { name: 'Solana dApp', url: 'https://www.unchain.tech/' },
+    { name: 'Solana NFT Drop', url: 'https://www.unchain.tech/' },
+    { name: 'Solana Online Store', url: 'https://www.unchain.tech/' },
+    { name: 'Solana Wallet', url: 'https://www.unchain.tech/' },
+    { name: 'NEAR Election dApp', url: 'https://www.unchain.tech/' },
+    { name: 'NEAR Hotel Booking Service', url: 'https://www.unchain.tech/' },
   ];
 </script>
 
