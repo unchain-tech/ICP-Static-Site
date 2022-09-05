@@ -52,6 +52,10 @@ The URL to deploy to is here: https://n5znu-6iaaa-aaaag-aatoa-cai.ic0.app
 
     The main component of the application. This file imports the svelte file in the `lib/`.
 
+  - `main.js`
+
+    Files to be loaded directly into `index.html`. Import `App.svelte` and `app.css`.
+
 - `canister_ids.json`
 
   A configuration file mapping the name and ID of deployed canisters. Generated when the command `dfx deploy` is executed.
@@ -82,6 +86,13 @@ Describe in a `dfx.json` file.
 ```
 
 - `"website"` is the name you give to the canister.
+
+  ex) When looking up the ID of a canister
+
+  ```bash
+  dfx canister --network ic id website
+  ```
+
 - `"type":` specifies the type of canister.
 - `"source":` specifies the directory to be used for static assets.
 
