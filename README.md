@@ -42,6 +42,12 @@ The URL to deploy to is here: https://n5znu-6iaaa-aaaag-aatoa-cai.ic0.app
 
     Contains the components that make up the website.
 
+    - `About.svelte`: Compose the profile section.
+    - `Footer.svelte`: Compose the footer.
+    - `Home.svelte`: Compose the home.
+    - `Nav.svelte`: Compose the navigation bar. Contains in-page links to HOME, ABOUT ME, and PORTFOLO.
+    - `Portfolio.svelte`: Compose the portfolio. URL to the official UNCHAIN site is used as a dummy.
+
   - `App.svelte`
 
     The main component of the application. This file imports the svelte file in the `lib/`.
@@ -53,6 +59,10 @@ The URL to deploy to is here: https://n5znu-6iaaa-aaaag-aatoa-cai.ic0.app
 - `dfx.json`
 
   Configuration file for building a project for the Internet Computer Blockchain.
+
+- `postcss.config.cjs`, `tailwind.config.cjs`
+
+  tailwind CSS configuration file
 
 ## Code walk-through
 
