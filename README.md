@@ -4,6 +4,12 @@ A personal website hosted on the blockchain.
 
 The URL to deploy to is here: https://n5znu-6iaaa-aaaag-aatoa-cai.ic0.app
 
+<img width="1440" alt="home" src="https://user-images.githubusercontent.com/60546319/188449469-0e19a47c-eaff-4d08-a59c-6693cbfd74b6.png">
+
+<img width="1440" alt="aboutme" src="https://user-images.githubusercontent.com/60546319/188449518-2f91a97d-285e-4f1e-a13f-c14dcb591f8e.png">
+
+<img width="1440" alt="port" src="https://user-images.githubusercontent.com/60546319/188449547-2caedfe0-b492-44fd-84ac-ec7350f0aa48.png">
+
 # Chain deployed to: `IC`
 
 # Description
@@ -30,7 +36,7 @@ The URL to deploy to is here: https://n5znu-6iaaa-aaaag-aatoa-cai.ic0.app
 
   - `assets/`
 
-    Contains images used for the website.
+    Contains images used for the website
 
   - `lib/`
 
